@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lopez\\Documents\\Proyecto8Hilos\\Proyecto8Hilos\\Proyecto8Hilos.csproj": {}
+    "C:\\Users\\abeor\\Desktop\\OneDrive\\Documentos\\01TECNOLOGICO\\TOPICOS AVANZADAS\\Equipo\\cloncrrerahilo\\actividad-8-practica-de-hilos-de-consola-equipo_naaa\\Proyecto8Hilos\\Proyecto8Hilos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lopez\\Documents\\Proyecto8Hilos\\Proyecto8Hilos\\Proyecto8Hilos.csproj": {
+    "C:\\Users\\abeor\\Desktop\\OneDrive\\Documentos\\01TECNOLOGICO\\TOPICOS AVANZADAS\\Equipo\\cloncrrerahilo\\actividad-8-practica-de-hilos-de-consola-equipo_naaa\\Proyecto8Hilos\\Proyecto8Hilos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lopez\\Documents\\Proyecto8Hilos\\Proyecto8Hilos\\Proyecto8Hilos.csproj",
+        "projectUniqueName": "C:\\Users\\abeor\\Desktop\\OneDrive\\Documentos\\01TECNOLOGICO\\TOPICOS AVANZADAS\\Equipo\\cloncrrerahilo\\actividad-8-practica-de-hilos-de-consola-equipo_naaa\\Proyecto8Hilos\\Proyecto8Hilos.csproj",
         "projectName": "Proyecto8Hilos",
-        "projectPath": "C:\\Users\\lopez\\Documents\\Proyecto8Hilos\\Proyecto8Hilos\\Proyecto8Hilos.csproj",
-        "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lopez\\Documents\\Proyecto8Hilos\\Proyecto8Hilos\\obj\\",
+        "projectPath": "C:\\Users\\abeor\\Desktop\\OneDrive\\Documentos\\01TECNOLOGICO\\TOPICOS AVANZADAS\\Equipo\\cloncrrerahilo\\actividad-8-practica-de-hilos-de-consola-equipo_naaa\\Proyecto8Hilos\\Proyecto8Hilos.csproj",
+        "packagesPath": "C:\\Users\\abeor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abeor\\Desktop\\OneDrive\\Documentos\\01TECNOLOGICO\\TOPICOS AVANZADAS\\Equipo\\cloncrrerahilo\\actividad-8-practica-de-hilos-de-consola-equipo_naaa\\Proyecto8Hilos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abeor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,6 +12,32 @@ class Program
         Console.Write("Ingresa la hora de la alarma (formato HH:mm:ss Tomando en cuenta el formato de 24 hrs): ");
 
         string entrada = Console.ReadLine();
+        while (!DateTime.TryParseExact(entrada, "HH:mm:ss", null, System.Globalization.DateTimeStyles.None, out horaAlarma))
+        {
+            Console.Write("Formato inválido. Intenta de nuevo (HH:mm:ss): ");
+            entrada = Console.ReadLine();
+        }
+
+        alarmaActivada = true;
+
+        // Iniciar hilos
+        Thread hiloReloj = new Thread(MostrarHora);
+        Thread hiloAlarma = new Thread(EsperarAlarma);
+
+        hiloReloj.Start();
+        hiloAlarma.Start();
+
+        // Esperar que el usuario quiera salir
+        Console.WriteLine("Presiona ENTER para salir del programa...");
+        Console.ReadLine();
+        alarmaActivada = false;
+    }
+    static void MostrarHora()
+    {
+    }
+
+    static void EsperarAlarma()
+    {
+    }
 
     }
-}

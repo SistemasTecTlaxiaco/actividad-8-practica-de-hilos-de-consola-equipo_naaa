@@ -8,7 +8,7 @@ class Program
 
     static void Main(string[] args)
     {
-        Console.WriteLine("-------- Reloj con Alarma ----------");
+        Console.WriteLine("-------- Reloj con Alarma ----------");// encabezado de comentario en consola de alarma
         Console.Write("Ingresa la hora de la alarma (formato HH:mm:ss Tomando en cuenta el formato de 24 hrs): ");
 
         string entrada = Console.ReadLine();

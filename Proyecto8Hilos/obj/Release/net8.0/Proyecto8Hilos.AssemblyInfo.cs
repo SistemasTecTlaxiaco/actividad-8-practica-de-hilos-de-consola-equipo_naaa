@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto8Hilos")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44fe885eb59b36b3d7ed86e70445751487cbdf09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca4300fa1b0f23caa54f15dcc6687fe3613c1c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto8Hilos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto8Hilos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

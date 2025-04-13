@@ -8,11 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Proyecto8Hilos
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\
-=======
-build_property.ProjectDir = C:\Users\Angel NJ\Documents\88\actividad-8-practica-de-hilos-de-consola-equipo_naaa\Proyecto8Hilos\
->>>>>>> 416bb71c04ea52c2e3cf459175c3c5d4becdd8e6
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0

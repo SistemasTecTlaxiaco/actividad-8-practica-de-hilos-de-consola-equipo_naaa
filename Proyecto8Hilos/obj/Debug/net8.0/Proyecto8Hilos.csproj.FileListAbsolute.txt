@@ -13,3 +13,18 @@ C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\Equip
 C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\Equipo\cloncrrerahilo\actividad-8-practica-de-hilos-de-consola-equipo_naaa\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.pdb
 C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\Equipo\cloncrrerahilo\actividad-8-practica-de-hilos-de-consola-equipo_naaa\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.genruntimeconfig.cache
 C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\Equipo\cloncrrerahilo\actividad-8-practica-de-hilos-de-consola-equipo_naaa\Proyecto8Hilos\obj\Debug\net8.0\ref\Proyecto8Hilos.dll
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\bin\Debug\net8.0\Proyecto8Hilos.exe
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\bin\Debug\net8.0\Proyecto8Hilos.deps.json
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\bin\Debug\net8.0\Proyecto8Hilos.runtimeconfig.json
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\bin\Debug\net8.0\Proyecto8Hilos.dll
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\bin\Debug\net8.0\Proyecto8Hilos.pdb
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.AssemblyInfoInputs.cache
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.AssemblyInfo.cs
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.sourcelink.json
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.dll
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\refint\Proyecto8Hilos.dll
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.pdb
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\Proyecto8Hilos.genruntimeconfig.cache
+C:\Users\lopez\Documents\Proyecto8Hilos\Proyecto8Hilos\obj\Debug\net8.0\ref\Proyecto8Hilos.dll

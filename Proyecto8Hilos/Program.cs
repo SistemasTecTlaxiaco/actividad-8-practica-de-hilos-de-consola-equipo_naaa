@@ -34,10 +34,30 @@ class Program
     }
     static void MostrarHora()
     {
+        while (alarmaActivada)
+        {
+            Console.Clear();
+            Console.WriteLine("Hora actual: " + DateTime.Now.ToLongTimeString());
+            Console.WriteLine("Hora de la alarma: " + horaAlarma.ToLongTimeString());
+            Thread.Sleep(1000);
+        }
     }
 
     static void EsperarAlarma()
     {
+        while (alarmaActivada)
+        {
+            if (DateTime.Now.Hour == horaAlarma.Hour &&
+                DateTime.Now.Minute == horaAlarma.Minute &&
+                DateTime.Now.Second == horaAlarma.Second)
+            {
+                Console.Beep(); // Opcional: sonido de alarma
+                Console.WriteLine("\n\n¡Alarmaaaaa! Ha llegado la hora: " + horaAlarma.ToLongTimeString());
+                alarmaActivada = false;
+            }
+
+            Thread.Sleep(500); // Verifica dos veces por segundo
+        }
     }
 
-    }
+}
